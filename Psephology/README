@@ -15,7 +15,7 @@ Instructions
 
 3. To tag with unigrams use the following command. (Enter the sentence to be tagged in the same format as the training data 		    without tags in hindi.dev) 
 
-		python tagger.py TAG1 hindi.counts hindi.dev > hindi.output
+		python tagger.py TAG1 sinhala.counts sinhala.dev > sinhala.output
 
 4. To tag with Trigram and viterbi use the following command
 
